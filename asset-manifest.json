@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SiddhantKulshrestha/TaskMate/static/css/main.8609d317.css",
+    "main.js": "/SiddhantKulshrestha/TaskMate/static/js/main.96a1b6fb.js",
+    "index.html": "/SiddhantKulshrestha/TaskMate/index.html",
+    "main.8609d317.css.map": "/SiddhantKulshrestha/TaskMate/static/css/main.8609d317.css.map",
+    "main.96a1b6fb.js.map": "/SiddhantKulshrestha/TaskMate/static/js/main.96a1b6fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8609d317.css",
+    "static/js/main.96a1b6fb.js"
+  ]
+}
